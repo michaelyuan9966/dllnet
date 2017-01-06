@@ -1,0 +1,4 @@
+e:\Projects\c#\ConsoleApplication1\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+e:\Projects\c#\ConsoleApplication1\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+e:\Projects\c#\ConsoleApplication1\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+e:\Projects\c#\ConsoleApplication1\MyClassLibrary\obj\Debug\MyClassLibrary.pdb

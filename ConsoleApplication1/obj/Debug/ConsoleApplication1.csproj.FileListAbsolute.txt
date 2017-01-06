@@ -1,0 +1,9 @@
+e:\Projects\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+e:\Projects\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+e:\Projects\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\MyClassLibrary.dll
+e:\Projects\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\MyClassLibrary.pdb
+e:\Projects\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+e:\Projects\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+e:\Projects\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\yuanm\fff\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\yuanm\fff\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
